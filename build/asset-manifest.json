@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.831ba270.css",
+    "main.js": "/static/js/main.e074ffa3.js",
+    "static/js/453.805824db.chunk.js": "/static/js/453.805824db.chunk.js",
+    "static/media/banner-2.jpg": "/static/media/banner-2.589c04e983e9edf6f7ac.jpg",
+    "static/media/about1.jpg": "/static/media/about1.96e245ad0ae027dca07f.jpg",
+    "static/media/about2.jpg": "/static/media/about2.11c033be1eb0671dbf16.jpg",
+    "static/media/banner.jpg": "/static/media/banner.3fc64ef3eaa0da6c9668.jpg",
+    "static/media/Brand launch.png": "/static/media/Brand launch.edbbdaad16f1ac236bb2.png",
+    "static/media/carolinabanner.jpg": "/static/media/carolinabanner.0d51d1414a8cedf1a3b9.jpg",
+    "static/media/globalfin-banner.jpg": "/static/media/globalfin-banner.5e336f5ce205e50897ab.jpg",
+    "static/media/faces-banner.jpg": "/static/media/faces-banner.455ff82a3b281953f126.jpg",
+    "static/media/it-banner.jpg": "/static/media/it-banner.1345629ae1cd5e72b61e.jpg",
+    "static/media/consultent-banner.jpg": "/static/media/consultent-banner.c7159e8b9b7ec5c58ecb.jpg",
+    "static/media/careerman.jpg": "/static/media/careerman.99b3fc5f31dccb0363a6.jpg",
+    "static/media/Jean quote.jpg": "/static/media/Jean quote.a180044c73bcf392adca.jpg",
+    "static/media/laws-banner.jpg": "/static/media/laws-banner.956c0fced924554a5f38.jpg",
+    "static/media/careerlady.jpg": "/static/media/careerlady.f5d5d49b1604a6344886.jpg",
+    "static/media/internalaudit.jpg": "/static/media/internalaudit.2eee38f6c94a9e2754b1.jpg",
+    "static/media/aboutbanner.jpg": "/static/media/aboutbanner.74e9720e4ad359141c00.jpg",
+    "static/media/corporate advisor.jpg": "/static/media/corporate advisor.aaea100eebfb4de07774.jpg",
+    "static/media/globalceo.jpg": "/static/media/globalceo.83c45f039bc0dfb59f26.jpg",
+    "static/media/about-nav-banner.jpg": "/static/media/about-nav-banner.7059693c2f0357c6df30.jpg",
+    "static/media/corporate advisor leader.jpg": "/static/media/corporate advisor leader.981eb39f034f6d534bf6.jpg",
+    "static/media/findmore-meetface.jpg": "/static/media/findmore-meetface.1c9e152cfa76a5d3ddb0.jpg",
+    "static/media/ind-banner.jpg": "/static/media/ind-banner.ba0983eb16dbf185f6ee.jpg",
+    "static/media/financial-banner.jpg": "/static/media/financial-banner.d2a4155c6afd9af0fa7a.jpg",
+    "static/media/gst-banner.jpg": "/static/media/gst-banner.4ed57a3dc8752ec67414.jpg",
+    "static/media/logo2.png": "/static/media/logo2.7b231f11fab4965f8a8a.png",
+    "index.html": "/index.html",
+    "main.831ba270.css.map": "/static/css/main.831ba270.css.map",
+    "main.e074ffa3.js.map": "/static/js/main.e074ffa3.js.map",
+    "453.805824db.chunk.js.map": "/static/js/453.805824db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.831ba270.css",
+    "static/js/main.e074ffa3.js"
+  ]
+}
