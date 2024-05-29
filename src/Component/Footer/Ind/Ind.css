@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.ind-banner-empty{
+    background-image: url("../../images/ind-banner.jpg");
+    height: 350px;
+    background-position: right;
+    background-size: cover;
+    filter: brightness(80%);
+}
+.ind-banner{
+    position: relative;
+}
+.ind-banner-head{
+    position: absolute;
+    top: 33%;
+    left: 13%;
+}
+.ind-banner-head h1{
+    font-size: 50px;
+    font-weight: 300;
+    color: #fff;
+}
+/* ind details */
+
+.ind-detail-container{
+    width: 50%;
+    margin: auto;
+}
+.ind-det-first{
+    padding: 30px 0px;
+}
+.ind-det-first h4{
+    padding: 10px 0px;
+    color: rgb(61, 59, 59);
+}
+.ind-det-first p{
+    padding: 10px 0px;
+    color: gray;
+}
+.ind-det-first p span{
+    font-weight: 700;
+    color: rgb(67, 64, 64);
+}

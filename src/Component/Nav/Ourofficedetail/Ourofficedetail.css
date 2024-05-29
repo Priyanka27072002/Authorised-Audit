@@ -1,0 +1,145 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.off-det-image{
+    height: 400px;
+    background-size: cover;
+    background-position: right;
+    filter: brightness(80%);
+}
+.off-det-banner{
+    position: relative;
+}
+.off-det-head{
+    position: absolute;
+    top: 31%;
+    left: 12%;
+}
+.off-det-head p{
+    color: #fff;
+    font-size: 18px;
+}
+.off-det-head h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 300;
+}
+.off-det-container{
+    width: 50%;
+    margin: auto;
+    padding: 20px 0px;
+}
+.off-det-det-head h1{
+    color: #268db9;
+    font-weight: 300;
+    font-size: 35px;
+}
+.off-det-main p{
+    padding: 10px 0px;
+    color: gray;
+    font-size: 18px;
+}
+.off-det-list{
+    width: 70%;
+    margin: auto;
+}
+.off-det-list ol li{
+    font-size: 18px;
+    color: gray;
+    padding: 5px 0px;
+}
+
+
+.off-ino-container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+.off-ino-container p{
+    padding: 5px;
+    font-size: 18px;
+    color: gray;
+}
+.mail{
+    color: #268db9 ;
+}
+.off-ino-container a{
+    text-decoration: none;
+    color: #268db9;
+    font-size: 18px;
+}
+.off-det-map-container{
+    width: 80%;
+    margin: auto;
+}
+.off-det-map-row{
+    display: flex;
+}
+.off-det-map-col{
+    width: 50%;
+}
+.off-det-map-col iframe{
+    width: 90%;
+    height: 350px;
+}
+.off-address{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.general{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.off-form-in input{
+    width: 100%;
+    padding: 10px;
+}
+.off-form-in textarea{
+    width: 100%;
+}
+.off-form-lab{
+    margin: 10px 0px;
+}
+.off-form-lab label{
+    font-size: 18px;
+    color: gray;
+   
+}
+.off-form-lab label::after{
+    content: "*";
+    color: red;
+}
+.off-form-btn{
+    margin: 30px 0px;
+}
+.off-form-btn button{
+    padding: 10px 15%;
+    border: none;
+    background-color: #0b7eb0;
+    cursor: pointer;
+    color: #fff;
+}
+.off-form-btn button:hover{
+    background-color: #268db9;
+}
+.off-det-map-form{
+    padding: 0px 0px 30px 0px;
+}
+.map-form-captcha{
+    width: 70%;
+    border: 1px solid #d3d3d3;
+    background-color: #f9f9f9;
+    display: flex;
+    padding: 5px 0px;
+    margin-top: 30px;
+}
+.catcha-link a{
+    text-decoration: none;
+    color: gray;
+}

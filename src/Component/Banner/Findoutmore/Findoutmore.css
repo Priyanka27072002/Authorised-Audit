@@ -1,0 +1,152 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#findmore-banner{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+}
+.findmore-banner-container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.findmore-ban-image1 img{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.findmore-ban-image2 img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    background-position: 28% 41%;
+    z-index: 3;
+}
+.findmore-layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("../../images/mask.png");
+    background-size: cover;
+    background-position: center;
+    mask: url("../../images/mask.png");
+    width: 100%;
+    height: 100%;
+    mask-repeat: no-repeat;
+    mask-size: 100%;
+    z-index: 2;
+}
+.find-banner-head{
+    background-color: #009cd9;
+    width: 50%;
+    height: 150px;
+}
+.find-ban-head-con{
+    padding-left: 30%;
+    padding-top: 20px;
+}
+.find-ban-head-con h1{
+    font-size: 40px;
+    font-weight: 300;
+    color: #fff;
+}
+.fine-banner-design{
+    background-color: #007EB4;
+    width: 50%;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+
+
+/* find more details */
+
+.find-detail-empty{
+    height: 150px;
+}
+.find-detail-container{
+    width: 50%;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.find-detail-body h1{
+    padding: 0px 0px 10px 0px;
+    font-weight: 300;
+    color: #009cd9;
+}
+.find-detail-body p{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+
+/* findmore face meet */
+
+.find-face-meet{
+    position: relative;
+}
+.find-face-meet-empty{
+    background-image: url("../../images/findmore-meetface.jpg");
+    height: 450px;
+    background-size: cover;
+    filter: brightness(80%);
+    background-position: center;
+}
+.find-face-row{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    position: absolute;
+    top: 40%;
+    left: 7%;
+    
+}
+.find-face-col1{
+    width: 60%;
+   
+}
+.find-face-col1 h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 300;
+}
+.find-face-col2{
+    width: 40%;
+}
+.find-face-col2 button{
+    float: right;
+    margin-top: 10px;
+    padding: 10px 60px;
+    font-size: 18px;
+    background-color: #fff;
+    color: gray;
+    border: none;
+    cursor: pointer;
+}
+.find-face-col2 button:hover{
+    background-color: #007EB4;
+    color: #fff;
+}
+.face-banner-head{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.face-banner-head h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 300;
+}

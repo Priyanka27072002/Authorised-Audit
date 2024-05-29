@@ -1,0 +1,901 @@
+{
+    "totalcard":[
+        {
+            "id":1,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/tax/images.jpg",
+            "cardname":"Newsflash CBDT provides relief from tax demand raised in PAN inoperative cases"
+        },
+        {
+            "id":2,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/tax/tax_0.jpg",
+            "cardname":"Newsflash India-Mauritius enhance efforts to Combat..."
+        },
+        {
+            "id":3,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/website/gems%20and%20jewlery.jpg",
+            "cardname":"Newsflash Authorised Economic Operator scheme-"
+        },
+        {
+            "id":4,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/tax/tax_0.jpg",
+            "cardname":"Publication Mergers and Acquisitions in India - Certain",
+            "cardtax":"CORPORATE ADVISORY & STRUCTURINGCOMPANY LAW AND LEGAL ADVISORYTAX-INTERNATIONAL AND INDIAN"
+        },
+        {
+            "id":5,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/RSM%20India/Location_Images/Delhif.png",
+            "cardname":"Newsflash Delhi ITAT confirms the non- existence"
+        },
+        {
+            "id":6,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/Budget%20images/9._image.jpg",
+            "cardname":"Newsflash Mumbai ITAT Rules that the term “Employment” under Section 6 – Explanation 1(a) of the Income Tax Act, 1961 shall include “Self-Employment”",
+            "cardtax":" TAX INSIGHTS"
+        },
+        {
+            "id":7,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/Budget%20images/budget-publications.png",
+            "cardname":"India Interim Budget 2024 – Key Aspects in a Nutshell",
+            "cardtax":"CONSULTING INSIGHTS"
+        },
+        {
+            "id":8,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/Budget%20images/basic_illustrations_single_files-33.png",
+            "cardname":"Newsflash: Amendments in Safe Harbour Rules",
+            "cardtax":"TAX INSIGHTS"
+        },
+        {
+            "id":9,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/News%20Articles/Picture2.jpg",
+            "cardname":"Leadership Talk – Symbiosis Centre for Management and.."
+        },
+        {
+            "id":10,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/03_Icons%20140x140px/Icons-blue_network%20-58.png",
+            "cardname":"Newsflash: GST Quarterly Digest [October 2023 to..",
+            "cardtax":"TAX INSIGHTS"
+        },
+        {
+            "id":11,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/01_Newsroom%20thumbnails%201240x930px/Press-release.jpg",
+            "cardname":"Publication The Logistics Navigator",
+            "cardtax":"SPECIAL REPORTS"
+        },
+        {
+            "id":12,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/backgrounds/Jaipur1.png",
+            "cardname":"Newsflash Major Changes under IGST Act, 2017",
+            "cardtax":" TAX INSIGHTS"
+        },
+        {
+            "id":13,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/stock-images/energy/Energy%20%26%20Natural%20Resources_offset_221013_low%20res.jpg",
+            "cardname":"White Paper: Charting the Future of Logistics in India -",
+            "cardtax":" IT SYSTEMS ASSURANCE AND IT SOLUTIONS"
+        },
+        {
+            "id":14,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/stock-images/energy/Energy%20%26%20Natural%20Resources_offset_365565_low%20res.jpg",
+            "cardname":"Newsflash GST on OIDAR Services - Recent",
+            "cardtax":" TAX INSIGHTS"
+        },
+        {
+            "id":15,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/stock-images/energy/Energy%20%26%20Natural%20Resources_offset_184772_low%20res.jpg",
+            "cardname":"Newsflash Supreme Court rules issuance of notification..",
+            "cardtax":"TAX-INTERNATIONAL AND INDIAN"
+        },
+        {
+            "id":16,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/stock-images/energy/Energy%20%26%20Natural%20Resources_offset_221013_low%20res.jpg",
+            "cardname":"Publication Corporate Social Responsibility – Regulatory,",
+            "cardtax":"TAX-INTERNATIONAL AND INDIANCORPORATE ADVISORY & STRUCTURINGCOMPANY LAW AND LEGAL ADVISORY"
+        },
+        {
+            "id":17,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/News%20Articles/October/offset_520015.jpg",
+            "cardname":"Newsflash CBDT amends Rule 11UA of Income Tax",
+            "cardtax":"TAX INSIGHTS"
+        },
+        {
+            "id":18,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/News%20Articles/offset_520015.jpg",
+            "cardname":"Newsflash 52nd GST Council Meeting Outcome",
+            "cardtax":"TAX INSIGHTS"
+        },
+        {
+            "id":19,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/News%20Articles/offset_353264.jpg",
+            "cardname":"Newsflash GST Quarterly Digest (July 2023 to..",
+            "cardtax":"TAX INSIGHTS"
+        },
+        {
+            "id":20,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/Budget%20images/1._image.jpg",
+            "cardname":"Newsflash Imposition of time-limit on E-invoicing for..",
+            "cardtax":"TAX INSIGHTS"
+        },
+        {
+            "id":21,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/backgrounds/Chennai%201.jpg",
+            "cardname":"Newsflash Calcutta High Court - Denial of ITC for non-..",
+            "cardtax":"TAX INSIGHTS"
+        }
+    ],
+    "addcard":[
+        {
+            "id":1,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/tax/images.jpg",
+            "cardname":"Newsflash CBDT provides relief from tax demand raised in PAN inoperative cases"
+        },
+        {
+            "id":2,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/tax/tax_0.jpg",
+            "cardname":"Newsflash India-Mauritius enhance efforts to Combat..."
+        },
+        {
+            "id":3,
+            "cardimg":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_thumbnail/public/media/website/gems%20and%20jewlery.jpg",
+            "cardname":"Newsflash Authorised Economic Operator scheme-"
+        }
+    ],
+    "careerdetail":[
+        {
+            "id":1,
+            "detailhead":"Manager Transfer pricing"
+        },
+        {
+            "id":2,
+            "detailhead":"Manager / Sr. Manager - IT Security Audits and Assurance"
+        },
+        {
+            "id":3,
+            "detailhead":"Sr. Officer / Assistant Manager - Data Analytics"
+        },
+        {
+            "id":4,
+            "detailhead":"Senior Manager – Statutory Audits"
+        },
+        {
+            "id":5,
+            "detailhead":"Fresh CA - Assistant Manager - Statutory Audit"
+        },
+        {
+            "id":6,
+            "detailhead":"Assistant General Manager / Senior Manager – Internal Audit"
+        },
+        {
+            "id":7,
+            "detailhead":"Sr. Officer / Officer- Internal Audit"
+        },
+        {
+            "id":8,
+            "detailhead":"Officer – Transfer Pricing"
+        },
+        {
+            "id":9,
+            "detailhead":"Manager / Assistant Manager- Direct Taxation"
+        },
+        {
+            "id":10,
+            "detailhead":"Site Engineer - Civil / Mechanical / Electricals"
+        },
+        {
+            "id":11,
+            "detailhead":"Sr. Officer / Officer - Statutory Audits"
+        },
+        {
+            "id":12,
+            "detailhead":"Manager / Sr. Manager – Operations Consulting (ISO 27001) (713)"
+        },
+        {
+            "id":13,
+            "detailhead":"Manager Cyber Security"
+        },
+        {
+            "id":14,
+            "detailhead":"Sr. Officer / Assistant Manager – Environment Social Governance (Sustainability) (716)"
+        }
+    ],
+    "facescard":[
+        {
+            "id":1,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_190523_S44_HIEU_9689_V3.png",
+            "name":"Hieu",
+            "aboutthem":"Hieu is a Manager in Vietnam. She is strong team player and always keen to reach outside her comfort zone and try something new."
+        },
+        {
+            "id":2,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_150523_S5_CHARLOTTE_1275_V3.png",
+            "name":"Charlotte",
+            "aboutthem":"Charlotte joined Authorised Audit ten years ago as a Manager and is now a Consulting Partner in France."
+        },
+        {
+            "id":3,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_160523_S14_PERNILLE_2935_V2.png",
+            "name":"Pernille",
+            "aboutthem":"Pernille is one of our communications specialists in the Netherlands and is also a keen salsa dancer."
+        },
+        {
+            "id":4,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_160523_S15_JOSE_3071_V2_1.png",
+            "name":"Jose",
+            "aboutthem":"Jose is a Corporate Finance adviser from Spain and is also part of Authorised Audit’s Future Leaders programme."
+        },
+        {
+            "id":5,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_160523_S19_ANNA_4068_V2.png",
+            "name":"Anna",
+            "aboutthem":"When Anna isn’t working as a Senior Tax Technology Consultant, she can be found on her bike or playing squash."
+        },
+        {
+            "id":6,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_170523_S24_ANI_5190.png",
+            "name":"Ani",
+            "aboutthem":"In addition to her client work as a Technology Consultant, Ani likes to get involved with local charities and build on Authorised Audit’s US internship programme."
+        },
+        {
+            "id":7,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_170523_S25_DAVID_5410_V2.png",
+            "name":"David",
+            "aboutthem":"David is a Tax Senior Manager in the US. He works with our US Firm and a local charity to support military veterans and also students from underrepresented communities."
+        },
+        {
+            "id":8,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_170523_S30_ALLISON_6308_V2.png",
+            "name":"Allison",
+            "aboutthem":"Allison is Tax Manager in the US and a member of the Abilities Steering Committee at RSM. In her free time, she represents her country at Wheelchair Rugby."
+        },
+        {
+            "id":9,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_180523_S36_VILLAR_8045-V2.png",
+            "name":"Estefani",
+            "aboutthem":"Estefani is one of our communications specialists in Peru. In her spare time, she enjoys salsa, bachata, running, cooking and photography."
+        },
+        {
+            "id":10,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_150523_S2_ULRIKKE_0329_V3.png",
+            "name":"Ulrikke",
+            "aboutthem":"Ulrikke is a Senior Associate in Norway and enjoys living an athletic lifestyle."
+        },
+        {
+            "id":11,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_190523_S46_FELIPE_10350_v3.png",
+            "name":"Felipe",
+            "aboutthem":"Felipe is a Junior lawyer in Colombia. He is passionate about urbanism and the ways in which we can create more liveable, sustainable cities to make a real difference in people's lives."
+        },
+        {
+            "id":12,
+            "cardimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/professionals_image_style/public/2024-01/RSM_LDN23_IE_170523_S21_HENRY_4559_V1.png",
+            "name":"Henry",
+            "aboutthem":"Henry champions diversity and inclusion, believing that sharing perspectives leads to a better collaborative environment both internally and externally."
+        }
+    ],
+    "worldwidelocation1":[
+        {
+            "id":1,
+            "location":"Africa",
+            "detailhead":"REIMAGINING AFRICA AMIDST SEISMIC CHANGE",
+            "detailpara1":"The COVID-19 crisis has been a catalyst for dramatic change across Africa: the continent has struggled with an ill prepared health-care system, suffered from little fiscal headroom for supportive investments and experienced significant disruption across all sectors, most notably in the financial industry, tourism and hospitality.",
+            "detailpara2":"Despite this backdrop, there are many opportunities in the change. The crisis is accelerating trends such as digitisation, market consolidation, and collaboration across countries both in the Region and outside. Across Africa they have a predominantly youthful population (median age 19) keen to embrace change and new ways to do everything.",
+            "detailpara3":"Authorised Audit representation across the region is extensive. We offer a full range of services that can help you take advantage of the myriad of investment opportunities in this vast resource-rich land of opportunity.",
+            "detailcard":[
+                {
+                    "id":1,
+                    "cardtag":["Africa","Asia Pacific","Europe","Latin America","MENA","North America"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/Financial%20results%20-%20thumbnail.png",
+                    "carddate":"JANUARY 23, 2024",
+                    "cardname":"Authorised Audit global revenue leaps 16% to record US$9.4bn"
+                },
+                {
+                    "id":2,
+                    "cardtag":["Africa"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/Financial%20results%20-%20thumbnail.png",
+                    "carddate":"JANUARY 23, 2024",
+                    "cardname":"Authorised Audit in Africa surges to 29% year-on-year growth in revenue"
+                },
+                {
+                    "id":3,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/telecommunications_network_communication_thumbnail-1240x930px_05.jpg",
+                    "cardtag":["Africa","Asia Pacific"],
+                    "carddate":"AUGUST 31, 2023",
+                    "cardname":"How AI is transforming the legal sector"
+                }
+            ],
+            "profilename":"Clive Betty",
+            "profileimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/scale_and_round/public/media/profile/Clive-Betty_grey-bc.jpg",
+            "profileposition":"Regional Leader - Africa"
+        },
+        {
+            "id":2,
+            "location":"Asia Pacific",
+            "detailhead":"UNDERSTANDING ASIA PACIFIC ",
+            "detailpara1":"The Asia Pacific region covers a vast area and a multitude of individual economies, each at varying stages of development offering different levels of growth. Investing and doing business in the region requires knowledge of a number of facets that affect each country. ",
+            "detailpara2":"Authorised Audit’s long-standing presence in Asia Pacific provides clients with the knowledge to unlock the market’s potential, while helping them to navigate the diverse labour laws, compliance legislations and crossborder challenges. Our deep expertise in investment strategies, corporate set-ups, market intelligence and transfer pricing is essential for those businesses looking to enter the region.",
+            "detailcard":[
+                {
+                    "id":1,
+                    "cardtag":["Asia Pacific"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/04_Portraiture%20thumbnails%201240x930px/dat-02-portraiture-thumbnail-1240x930px.jpg",
+                    "carddate":"MARCH 28, 2024",
+                    "cardname":"PropTech: Advancing efficiency and sustainability for real estate in Asia Pacific"
+                },
+                {
+                    "id":2,
+                    "cardtag":["Africa,","Asia Pacific,","Europe,","Latin America,","MENA,","North America"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/Financial%20results%20-%20thumbnail.png",
+                    "carddate":"JANUARY 23, 2024",
+                    "cardname":"Authorised Audit global revenue leaps 16% to record US$9.4bn"
+                },
+                {
+                    "id":3,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/Financial%20results%20-%20thumbnail.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"JANUARY 23, 2024",
+                    "cardname":"Authorised Audit’s 8% revenue growth in Asia Pacific driven by middle market resilience"
+                },
+                {
+                    "id":4,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/real-estate-and-construction-thumbnail-1240x930px-0.8.jpg",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"JANUARY 11, 2024",
+                    "cardname":"Navigating the green horizon: The real estate response to ESG in Asia Pacific"
+                },
+                {
+                    "id":5,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/real-estate_financial_thumbnail-1240x930px_01.jpg",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"DECEMBER 7, 2023",
+                    "cardname":"How remote and hybrid working is affecting real estate in Asia Pacific"
+                },
+                {
+                    "id":6,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/01_Newsroom%20thumbnails%201240x930px/Press-release.jpg",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"DECEMBER 1, 2023",
+                    "cardname":"Authorised Audit Hong Kong has been reinstated as a full Member of the RSM Network of independent Member Firms."
+                },
+                {
+                    "id":7,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/01_Newsroom%20thumbnails%201240x930px/Press-release.jpg",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"SEPTEMBER 5, 2023",
+                    "cardname":"Authorised Audit’s International appoints Stephen Darley as Regional Leader for Asia Pacific"
+                },
+                {
+                    "id":8,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/telecommunications_network_communication_thumbnail-1240x930px_05.jpg",
+                    "cardtag":["Africa","Asia Pacific"],
+                    "carddate":"AUGUST 31, 2023",
+                    "cardname":"How AI is transforming the legal sector"
+                },
+                {
+                    "id":9,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/01_Newsroom%20thumbnails%201240x930px/Press-release.jpg",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"JULY 31, 2023",
+                    "cardname":"Authorised Audit’s International announces change to Hong Kong Member Firm status"
+                },
+                {
+                    "id":10,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/environmental_thumbnail-1240x930px_15.jpg",
+                    "cardtag":["Africa,","Asia Pacific,","Europe,","Latin America,","MENA,","North America"],
+                    "carddate":"JUNE 13, 2023",
+                    "cardname":"The ESG ‘greenprint’: how the IFRS Sustainability Disclosure Standards could impact the middle market"
+                },
+                {
+                    "id":11,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Investing%20in%20the%20future_Supporting%20the%20ESG%20mission%20in%20Asia%20Pacific_Article_1240pxx930px.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"MAY 11, 2023",
+                    "cardname":"Investing in the future: Supporting the ESG mission in Asia Pacific"
+                },
+                {
+                    "id":12,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/04_Portraiture%20thumbnails%201240x930px/deji-01-portraiture-thumbnail-1240x930px.jpg",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"APRIL 18, 2023",
+                    "cardname":"A 2023 guide to the R&D Tax Incentives across Australia and New Zealand – key considerations"
+                },
+                {
+                    "id":13,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/R%26D%20Australia%20New%20Zealand%20part%201_Article_1240pxx930px.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"MARCH 21, 2023",
+                    "cardname":"2023 guide to the R&D Tax Incentives across Australia and New Zealand –definitions"
+                },
+                {
+                    "id":14,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Regional%20Stats_APAC_1240x930px.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"JANUARY 24, 2023",
+                    "cardname":"Authorised Audit’s revenues in Asia Pacific hit $1bn as network bolsters workforce"
+                },
+                {
+                    "id":15,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Press%20release_thumbnail_Japan_1240x930px_0.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"NOVEMBER 1, 2022",
+                    "cardname":"New firm in Japan strengthens RSM offering in Asia Pacific"
+                },
+                {
+                    "id":16,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Article%201240x930px_The%202022%20Beijing%20Winter%20Olympics_0.png",
+                    "cardtag":["Asia Pacific","North America"],
+                    "carddate":"FEBRUARY 16, 2022",
+                    "cardname":"The 2022 Beijing Winter Olympics and eYuan: winning the race in centralised digital currency"
+                },
+                {
+                    "id":17,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/VAT%20and%20GST_Article_Global%20News_1240pxx930px.png",
+                    "cardtag":["Asia Pacific ,","North America"],
+                    "carddate":"FEBRUARY 14, 2022",
+                    "cardname":"VAT and GST tax compliance in a data-driven digital age"
+                },
+                {
+                    "id":18,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Global%20Minimum%20Tax_Boon%20or%20Blessing%20for%20Innovation%20Article_Blue_1240pxx930px.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"DECEMBER 15, 2021",
+                    "cardname":"Incentivizing Innovation and Investment in the New Global Tax Landscape"
+                },
+                {
+                    "id":19,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/global_minimum_tax_boon_or_blessing_for_innovation_article_1240pxx930px_v3.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"NOVEMBER 22, 2021",
+                    "cardname":"Global Minimum Tax: Boon or Blessing for Innovation?"
+                },
+                {
+                    "id":20,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Asia%20Pacific%20in%20the%20Spotlight_Reimagining%20Global%20Mobility_1240pxx930px.png",
+                    "cardtag":["Asia Pacific"],
+                    "carddate":"SEPTEMBER 29, 2021",
+                    "cardname":"Asia Pacific in the spotlight – reimagining global mobility in the next normal"
+                },
+                {
+                    "id":21,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Article%201240x930px_Saving%20time%20and%20money%20through%20Automation.png",
+                    "cardtag":["Asia Pacific,","Latin America,","North America"],
+                    "carddate":"JULY 1, 2021",
+                    "cardname":"Saving time and money through Automation"
+                },
+                {
+                    "id":22,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/foic_article_770pxx367px_post-pandemic_ma_outlook.png",
+                    "cardtag":["Asia Pacific,","North America"],
+                    "carddate":"JUNE 22, 2021",
+                    "cardname":"Post-pandemic M&A outlook - why we should be cautiously confident"
+                },
+                {
+                    "id":23,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/foic_article_770pxx367px-02_0.png",
+                    "cardtag":["Asia Pacific,","Europe","North America"],
+                    "carddate":"JUNE 1, 2021",
+                    "cardname":"Experiential shopping in a post-covid world"
+                },
+                {
+                    "id":24,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/automotive_thumbnail_770x367px_green_60.png",
+                    "cardtag":["Asia Pacific,","Europe","North America"],
+                    "carddate":"MARCH 15, 2021",
+                    "cardname":"Driving change: the revolution of the automotive industry"
+                }
+            ],
+            "profilename":"Stephen Darley",
+            "profileimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/scale_and_round/public/media/profile-pictures/Stephen-Darley-1240x930v1.png",
+            "profileposition":"Regional Leader - Asia Pacific"
+        },
+        {
+            "id":3,
+            "location":"Europe",
+            "detailhead":"UNDERSTANDING EUROPE ",
+            "detailpara1":"As one of the most diverse regions in the world, Europe offers significant opportunities for business growth and expansion. However, the diversity of the region with varying currencies, regulations and stages of economic growth, can make Europe a very complex place for businesses to thrive. ",
+            "detailpara2":"With over 10,000+ staff across the region, RSM assists businesses to anticipate and understand these complexities, in order to succeed in the largest consumer market in the world.",
+            "detailcard":[
+                {
+                    "id":1,
+                    "cardtag":["Europe"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/telecommunications_network_communication_thumbnail-1240x930px_02.jpg",
+                    "carddate":"APRIL 18, 2024",
+                    "cardname":"Manufacturing in Europe: Data, cybersecurity and digital transformation"
+                },
+                {
+                    "id":2,
+                    "cardtag":["Europe"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/technology_thumbnail-1240x930px_01.jpg",
+                    "carddate":"FEBRUARY 29, 2024",
+                    "cardname":"How manufacturers are adopting Industry 4.0 in Europe"
+                },
+                {
+                    "id":3,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/04_Portraiture%20thumbnails%201240x930px/irene-0.01-portraiture-thumbnail-1240x930px.jpg",
+                    "cardtag":["Europe"],
+                    "carddate":"FEBRUARY 22, 2024",
+                    "cardname":"Why people are at the heart of digital transformation"
+                },
+                {
+                    "id":4,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/crop_thumbnail/public/media/thumbnails/Working%20from%20anywhere%20culture%20requires%20diligent%20approach%20to%20tax%20and%20social%20security_Article_1240pxx930px.png",
+                    "cardtag":["Europe"],
+                    "carddate":"FEBRUARY 15, 2024",
+                    "cardname":"Working from anywhere culture requires diligent approach to tax and social security"
+                }
+            ],
+            "profilename":"Gregor Schmidt",
+            "profileimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/sites/default/files/styles/scale_and_round/public/media/profile/Gregor-Schmidt_grey-bc.jpg",
+            "profileposition":"Regional Leader - Europe"
+        },
+        {
+            "id":4,
+            "location":"Latin America",
+            "backcolor":"present",
+            "detailhead":"UNDERSTANDING LATIN AMERICA",
+            "detailpara1":"The COVID-19 pandemic revolutionised everything, generating new ways of doing business in the process. In 2020, Latin American economies were confronted with balancing fiscal deficits with the need to help companies and citizens alike to deal with the many unprecedented challenges created by the virus. But things are changing. According to estimates from the International Monetary Fund, Latin America will see a recovery of more than 4% in 2021 alone. In many cases, COVID-19 has acted as an accelerator for Latin American companies to move more quickly on previously planned projects such as the digitalisation of their processes, the shift towards e-commerce and the reconfiguration of supply chains.",
+            "detailcard":[
+                {
+                    "id":1,
+                    "cardtag":["Latin America"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/05_Abstract_Thumbnail%201240x930px/GettyImages-1412784748_Thumb.jpg",
+                    "carddate":"APRIL 4, 2024",
+                    "cardname":"Generative AI: transforming Audit, Tax and Accounting in all industries"
+                },
+                {
+                    "id":2,
+                    "cardtag":["Latin America"],
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/06_Real%20World_Thumbnail%201240x930px/GettyImages-1595491547_Thumb.jpg",
+                    "carddate":"MARCH 21, 2024",
+                    "cardname":"The green transition: A trigger for change for Latin America in 2024"
+                },
+                {
+                    "id":3,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/cryptocurrency-mining_bitcoin_thumbnail-1240x930px_02.jpg",
+                    "cardtag":["Latin America"],
+                    "carddate":"NOVEMBER 16, 2023",
+                    "cardname":"Demystifying stablecoins in Latin America: risks, regulations, and benefits"
+                },
+                {
+                    "id":4,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/cryptocurrency-mining_bitcoin_thumbnail-1240x930px_01.jpg",
+                    "cardtag":["Latin America"],
+                    "carddate":"JULY 26, 2023",
+                    "cardname":"Where crypto can pay off: Stablecoins - digital dollars in Latin America"
+                },
+                {
+                    "id":5,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/manufacturing_consumer-goods_thumbnail-1240x930px_02.jpg",
+                    "cardtag":["Latin America"],
+                    "carddate":"JULY 12, 2023",
+                    "cardname":"Global Spotlight: Future-proofing supply chains – nearshoring, friend shoring, and more"
+                },
+                {
+                    "id":6,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/04_Portraiture%20thumbnails%201240x930px/felipe-02-portraiture-thumbnail-1240x930px.jpg",
+                    "cardtag":["Latin America"],
+                    "carddate":"JUNE 28, 2023",
+                    "cardname":"The settling year: Growth and hurdles in Latin America"
+                },
+                {
+                    "id":7,
+                    "cardimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/crop_thumbnail/public/01%20Global%20assets/02_Thumbnails%201240x930px/03_Industry%20thumbnails%201240x930px/finance_investment_thumbnail-1240x930px_01.jpg",
+                    "cardtag":["Latin America"],
+                    "carddate":"APRIL 27, 2023",
+                    "cardname":"Governance takes centre stage"
+                },
+                {
+                    "id":8,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":9,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":10,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":11,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":12,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":13,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":14,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":15,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":16,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":17,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                },
+                {
+                    "id":18,
+                    "cardimage":"",
+                    "cardtag":["Latin America"],
+                    "carddate":"",
+                    "cardname":""
+                }
+            ],
+            "profilename":"Eileen Turkot",
+            "profileimage":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/latinamerica/sites/default/files/styles/scale_and_round/public/media/profile-pictures/Eileen-Turkot_grey-bc.jpg",
+            "profileposition":"Regional Leader - Latin America"
+        }
+
+    ],
+    "worldwidelocation2":[
+        {
+            "id":1,
+            "location":"MENA"
+        },
+        {
+            "id":2,
+            "location":"North America"
+        }
+    ],
+    "officecard":[
+        {
+            "id":1,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/AdobeStock_530303855.jpeg",
+            "heading":"Mumbai-Andheri",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/AdobeStock_530303855_0.jpeg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Mumbai ",
+            "carddetailpara1":"Behind every development, there are innovative minds at work backed by in-depth knowledge and astute thinking. Today, when business enterprises are exploring opportunities beyond the horizons and cruising at high altitudes of success, you need a trusted knowledge partner to navigate the turbulent times. ",
+            "carddetailpara2":"Authorised Audit India proudly welcomes you to our Mumbai offices. With convenient locations in Nariman Point and Andheri, we bring a wealth of expertise and a commitment to unparalleled client service.",
+            "serviceoffered":"eams of qualified Accountants, Engineers, MBAs and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Transaction Advisory, Financial Reporting, Cyber security and Technology Solutions. ",
+            "industryserved":"The businesses we serve and have focused teams on include Technology Companies, Steel and Cement majors, Infrastructure, Engineering, Banking and Fintech, Pharmaceuticals, Consumer Goods, Media Houses and Diamonds and Jewellery, IT & ITES, and New Age Businesses. ",
+            "citydream":"Want to experience our vibrant workspace in India’s very own City of Dreams?",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone: 022 6108 5555",
+            "email":"emails@authorisedaudit.in",
+            "address":"3rd floor, Technopolis Knowledge Park, A Wing, MIDC,Andheri East, Mumbai – 400 093.",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+Pvt.+Ltd.+-+Pune+Office/@18.5409805,73.8274557,17z/data=!3m1!5s0x3bc2bf78fe795f6b:0x1ddb6e60434be807!4m6!3m5!1s0x3bc2b9324e8d1eef:0xe9c05d80b93bf7e0!8m2!3d18.5410314!4d73.8297302!16s%2Fg%2F11bycdn373?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3782.7326343262926!2d73.8274557!3d18.5409805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9324e8d1eef%3A0xe9c05d80b93bf7e0!2sRSM%20Astute%20Consulting%20Pvt.%20Ltd.%20-%20Pune%20Office!5e0!3m2!1sen!2sin!4v1716894180407!5m2!1sen!2sin"
+        },
+        {
+            "id":2,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/AdobeStock_530303671.jpeg",
+            "heading":"Mumbai-NPT-New",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/01%20Global%20assets/03_Icons%20140x140px/AdobeStock_420433699%20K.jpg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Mumbai ",
+            "carddetailpara1":"Behind every development, there are innovative minds at work backed by in-depth knowledge and astute thinking. Today, when business enterprises are exploring opportunities beyond the horizons and cruising at high altitudes of success, you need a trusted knowledge partner to navigate the turbulent times. ",
+            "carddetailpara2":"Authorised Audit India proudly welcomes you to our Mumbai offices. With convenient locations in Nariman Point and Andheri, we bring a wealth of expertise and a commitment to unparalleled client service. ",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBAs and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Transaction Advisory, Financial Reporting, Cyber security and Technology Solutions. ",
+            "industryserved":"The businesses we serve and have focused teams on include Technology Companies, Steel and Cement majors, Infrastructure, Engineering, Banking and Fintech, Pharmaceuticals, Consumer Goods, Media Houses and Diamonds and Jewellery, IT & ITES, and New Age Businesses. ",
+            "citydream":"Want to experience our vibrant workspace in India’s very own City of Dreams?",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone: 022 6108 5555",
+            "email":"emails@authorisedaudit.in",
+            "address":"8th floor, Bakhtawar, 229, Nariman Point, Mumbai - 400 021",
+            "maplocation":"https://www.google.com/maps/place/Suresh+Surana+%26+Associates+LLP/@18.9263029,72.821037,17z/data=!3m2!4b1!5s0x3be7d1e936180633:0xf85ae6a15d2449ed!4m6!3m5!1s0x3be7d1eec45acdd5:0x3a8792b4a98c375a!8m2!3d18.9263029!4d72.821037!16s%2Fg%2F1hc2wg7b2?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.1150076181702!2d72.82103699999999!3d18.9263029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d1eec45acdd5%3A0x3a8792b4a98c375a!2sSuresh%20Surana%20%26%20Associates%20LLP!5e0!3m2!1sen!2sin!4v1716898487911!5m2!1sen!2sin"
+        },
+        {
+            "id":3,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/AdobeStock_401430491.jpeg",
+            "heading":"New Delhi-NCR",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/backgrounds/AdobeStock_597252466%20K.jpg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in New Delhi - NCR",
+            "carddetailpara1":"Every business and investor needs a highly committed, competent and responsible professional services form. We are proud of our New Delhi – NCR team which has consistently delivered and each member is committed to technical excellence, using automation to serve clients better, and finding solutions in context of the client and industry they operate.  ",
+            "carddetailpara2":"We have over 300 diverse professionals who partner with you to navigate and assist you in your global and local pursuits. ",
+            "carddetailpara3":"As the nation's capital, New Delhi pairs its administrative significance with a burgeoning business landscape, particularly excelling in information technology, telecommunications, manufacturing, automotive, renewables and heavy industries sectors. RSM’s New Delhi office is proud to partner with clients in these sectors and has been managing expectations of stakeholders in listed companies, private enterprises, family-controlled businesses, not for profits, startups and multinational associates.",
+            "carddetailpara4":"We are well poised to provide the following services with best practices from Authorised Audit International approved methodologies for the following service offerings: ",
+            "servicelist":"persent",
+            "servicelist1":"Financial Reporting",
+            "servicelist2":"Internal Audit and Risk Advisory Services",
+            "servicelist3":" Indian and International Taxation and India Tax",
+            "servicelist4":"Accounting, Tax and Financial Process Outsourcing",
+            "servicelist5":"Information Technology Consulting",
+            "servicelist6":"Analytics and Automation",
+            "servicelist7":"Operations Consulting",
+            "servicelist8":"And More, Tailored to Your Needs",
+            "ourcommit":"Our commitment is to learn, excel and continuously bring in our expertise and experience in the way we serve clients. Our long-term objective is to enhance trust in our offerings and offer the client rich and personalized experiences, resulting in stakeholder satisfaction. ",
+            "connectwithus1":"Want to experience our vibrant workspace? [Watch us in action here (video link)].",
+            "connectwithus2":"Contact our Delhi - NCR office for industry-leading expertise in tax, accounting, and more. Our team of over 300 experts is ready to support your business journey.",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone:",
+            "email":"emails@authorisedaudit.in",
+            "address":"2nd and 3rd Floor. B37 Sector 1,Noida- 201301, New Delhi – NCR",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+Pvt.+Ltd./@28.590373,77.3125241,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce549b2005d27:0x19df1cd79f597677!8m2!3d28.590373!4d77.3125241!16s%2Fg%2F11grp_mjx0?authuser=0&hl=en&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.313623220418!2d77.31251329999999!3d28.590366799999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce549b2005d27%3A0x19df1cd79f597677!2sRSM%20Astute%20Consulting%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1716898607271!5m2!1sen!2sin"
+        },
+        {
+            "id":4,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/icon/AdobeStock_448938910.jpeg",
+            "heading":"Chennai",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/icon/AdobeStock_218763602%20K.jpg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Chennai ",
+            "carddetailpara1":"Behind every development, there are innovative minds at work backed by in depth knowledge and astute thinking. Today, when business enterprises are exploring opportunities beyond the horizons and cruising at high altitudes of success, you need a trusted knowledge partner to navigate the turbulent times.",
+            "carddetailpara2":"RSM India proudly welcomes you to our Chennai office. We bring a wealth of expertise and a commitment to unparalleled client service.",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBA’s and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Financial Reporting, Accounts Outsourcing, Goods and Services Tax and others. ",
+            "clientindustries":"The businesses we serve are multinational companies, listed companies, BFSI captives, automotives and manufacturing industries.",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone:",
+            "email":"emails@authorisedaudit.in",
+            "address":"2nd & 4th floor, Apex Towers, R.A Puram Chennai 600 028",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+Pvt.+Ltd.,+Chennai+Office/@13.0271819,80.2530086,16.54z/data=!3m1!5s0x3a5267c84c49a04d:0x92303d0870393524!4m6!3m5!1s0x3a5267b64bc996d5:0x468ec142cf761c27!8m2!3d13.0272058!4d80.2562785!16s%2Fg%2F1td6l273?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7774.266609978708!2d80.2530086!3d13.0271819!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267b64bc996d5%3A0x468ec142cf761c27!2sRSM%20Astute%20Consulting%20Pvt.%20Ltd.%2C%20Chennai%20Office!5e0!3m2!1sen!2sin!4v1716898686258!5m2!1sen!2sin" 
+        },
+        {
+            "id":5,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/AdobeStock_610728942.jpeg",
+            "heading":"Bengaluru",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/01%20Global%20assets/03_Icons%20140x140px/AdobeStock_580686605%20K_0.jpg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Bengaluru",
+            "carddetailpara1":"Discover the power of innovation and digitalization with RSM in the heart of Namma Bengaluru. Our Bangalore office, strategically located on Museum Road, is a dynamic hub where a 150+ tech-savvy team is passionate and obsessed with client centricity.",
+            "aboutus":"Authorised Audit India has firmly established its footprint across numerous service lines and industries, leveraging Bengaluru's status as the global hub for innovation. We offer the following services using a blend of technical excellence, automation tools and solution orientation: ",
+            "servicelist":"persent",
+            "servicelist1":"Financial Reporting",
+            "servicelist2":"Internal Audit and Risk Advisory Services",
+            "servicelist3":" Indian and International Taxation and India Tax",
+            "servicelist4":"Accounting, Tax and Financial Process Outsourcing",
+            "servicelist5":"Information Technology Consulting",
+            "servicelist6":"Analytics and Automation",
+            "servicelist7":"Operations Consulting",
+            "servicelist8":"And More, Tailored to Your Needs",
+            "ourcommit":"Our Bangalore office, which is future-forward and agile, is committed to serving our clients in a personalized manner and navigating the needs and expectations of clients and their stakeholders. ",
+            "connectwithus1":"Want to experience our vibrant workspace? [Watch us in action here (video link)].",
+            "connectwithus2":"Contact our Bengaluru office for industry-leading expertise in tax, accounting, and more. Our team of over 250 experts is ready to support your business journey.",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone:",
+            "email":"emails@authorisedaudit.in",
+            "address":"3rd floor Wing A & B, Jubilee Building 45, Museum Road, Bengaluru - 560 025",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+pvt+ltd+Bangalore/@12.9727099,77.6045469,17z/data=!3m2!4b1!5s0x3bae167e8e9a8917:0xf0942ffa0254cd54!4m6!3m5!1s0x3bae167e87ca9ae9:0x3bbe695cd797b915!8m2!3d12.9727099!4d77.6045469!16s%2Fg%2F11g8x0sh5n?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.9865820089763!2d77.6045469!3d12.9727099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae167e87ca9ae9%3A0x3bbe695cd797b915!2sRSM%20Astute%20Consulting%20pvt%20ltd%20Bangalore!5e0!3m2!1sen!2sin!4v1716898797405!5m2!1sen!2sin" 
+        },
+        {
+            "id":6,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/icon/AdobeStock_105095028.jpeg",
+            "heading":"Kolkata",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/icon/AdobeStock_206428668%20K.jpg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Kolkata ",
+            "carddetailpara1":"Behind every development, there are innovative minds at work backed by in depth knowledge and astute thinking. Today, when business enterprises are exploring opportunities beyond the horizons and cruising at high altitudes of success, you need a trusted knowledge partner to navigate the turbulent times.",
+            "carddetailpara2":"Located in the hub of the city, our Kolkata office overlooks the iconic Victoria Memorial monument, and the famed Hooghly river and bridge.",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBA’s and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Financial Reporting, Accounts Outsourcing, Goods and Services Tax and others. ",
+            "clientindustries":"The businesses we serve are multinational companies, listed companies, BFSI captives, automotives and manufacturing industries.",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone",
+            "email":"emails@authorisedaudit.in",
+            "address":"5th Floor, J K Millennium Centre, Jawaharlal Nehru Road, Kolkata- 700 071.",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+Pvt.+Ltd.+,+Kolkata+Office+Location/@22.5531867,88.3462913,1626m/data=!3m2!1e3!5s0x3a0277111a6fb221:0x8ae18b58d65e9b17!4m6!3m5!1s0x3a02770e491e56df:0x484c8a895474478a!8m2!3d22.5536227!4d88.3502675!16s%2Fg%2F11b7dvq0jh?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11380.326498576831!2d88.3462913!3d22.5531867!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02770e491e56df%3A0x484c8a895474478a!2sRSM%20Astute%20Consulting%20Pvt.%20Ltd.%20%2C%20Kolkata%20Office%20Location!5e1!3m2!1sen!2sin!4v1716898926753!5m2!1sen!2sin" 
+        },
+        {
+            "id":7,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/Hyderabad%20TN_1.png",
+            "heading":"Hyderabad",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/01%20Global%20assets/03_Icons%20140x140px/HYD%202%20K.jpg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Hyderabad",
+            "carddetailpara1":"Hyderabad, known for its historical charm, has emerged as a key player in the global business arena, drawing investments and talent from around the world. We started our operations in Hyderabad 13 years ago, and have today, grown to a 100+ member team, serving growing businesses in the dynamic IT/ BPO, Pharmaceutical, Biotechnology, and Agriculture sectors. Our office is centrally located, and accommodates the local and global needs of our clients with equal ease and poise.",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBA’s and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Financial Reporting, Accounts Outsourcing, Goods and Services Tax and others. ",
+            "connectwithus1":"Want a glimpse of our office in Hyderabad?",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone:",
+            "address":"301, Block-1, White House, Greenlands Road Kundanbagh, Begumpet, Hyderabad - 500016",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+Pvt.+Ltd+Hyderabad+Location/@17.4360156,78.4563065,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb9a10b0234e79:0xde13981c5c11bc91!8m2!3d17.4360156!4d78.4563065!16s%2Fg%2F11g85y8v3p?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.494809330497!2d78.4563065!3d17.4360156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9a10b0234e79%3A0xde13981c5c11bc91!2sRSM%20Astute%20Consulting%20Pvt.%20Ltd%20Hyderabad%20Location!5e0!3m2!1sen!2sin!4v1716899023274!5m2!1sen!2sin" 
+        },
+        {
+            "id":8,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/RSM%20India/Location_Images/Jaipur1f_0.png",
+            "heading":"Jaipur",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/backgrounds/Jaipur1f.png",
+            "address":"346, 3rd floor, Ganpati Plaza, M.I. Road Jaipur - 302 001"
+        },
+        {
+            "id":9,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/backgrounds/Model_0.jpg",
+            "heading":"Ahmedabad",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/backgrounds/Model3.jpg",
+            "address":"B/211, 2nd Floor, Block B, Mondeal Heights, Near Novotel Hotel, SG Highway, Ahmedabad 380015"
+        },
+        {
+            "id":10,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/icon/AdobeStock_281211036.jpeg",
+            "heading":"Pune",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/icon/AdobeStock_133621255%20K.jpg",
+            "detailhead":"Tax and Accounting Services in Pune ",
+            "carddetailpara1":"Pune, an emerging IT destination, is also renowned for its automotive and manufacturing prowess.",
+            "servicelist":"persent",
+            "servicelist1":"Financial Reporting",
+            "servicelist2":"Internal Audit and Risk Advisory Services",
+            "servicelist3":" Indian and International Taxation and India Tax",
+            "servicelist4":"Accounting, Tax and Financial Process Outsourcing",
+            "carddetailpara2":"Our office is conveniently located, and the rapidly growing city’s spirit of innovation and creativity is shared by our team. ",
+            "carddetailpara3":"Our young and dynamic Pune office in a span of few years has built in expertise for the following service offerings: ",
+            "citydream":"Having extensive knowledge of the manufacturing, technology, and automotive sectors, our team of specialists have the experience needed to lead you to success, both nationally and internationally.",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone:",
+            "email":"emails@authorisedaudit.in",
+            "address":"603, Pride House, Ganesh Khind Road, Opp. NIC, University Chowk, Pune – 411 016.",
+            "maplocation":"https://www.google.com/maps/place/RSM+Astute+Consulting+Pvt.+Ltd.+-+Pune+Office/@18.5409805,73.8274557,17z/data=!3m1!5s0x3bc2bf78fe795f6b:0x1ddb6e60434be807!4m6!3m5!1s0x3bc2b9324e8d1eef:0xe9c05d80b93bf7e0!8m2!3d18.5410314!4d73.8297302!16s%2Fg%2F11bycdn373?authuser=0&entry=ttu",
+            "mapdiv":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3782.7326343262926!2d73.8274557!3d18.5409805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9324e8d1eef%3A0xe9c05d80b93bf7e0!2sRSM%20Astute%20Consulting%20Pvt.%20Ltd.%20-%20Pune%20Office!5e0!3m2!1sen!2sin!4v1716899448018!5m2!1sen!2sin"
+        },
+        {
+            "id":11,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/offices/Vijay%20Nagar_0.jpeg",
+            "heading":"Vijayanagar",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/backgrounds/Vijay%20Nagar_1.jpeg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Vijayanagar",
+            "carddetailpara1":"Gaining prominence in IT and biotechnology, Vijayanagar is positioning itself as a promising city in Karnataka for future developments. We have been partnering with our clients in Vijayanagar for enabling achievement of their business objectives with innovative solutions that integrate passionate teams, streamlined processes, technologies and global perspectives.Our professionals are committed to truly understand you and your business objectives in order to assist and guide you in the areas of income tax, international tax, assurance and risk advisory.Contact RSM in Vijayanagar for industry leading expertise in tax and accounting. Our team of experts is ready to support you. ",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBAs and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Financial Reporting, Accounts Outsourcing, Goods and Services Tax and others. We also have dedicated specialists for Project Audits and Techno Commercial Audits, to support the massive and mega projects that are coming around in Vijaynagar.",
+            "clientindustries":"The businesses we serve are multinational companies, listed companies, BFSI captives, automotives, and manufacturing industries. ",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone: 022 6108 5555",
+            "email":"emails@authorisedaudit.in",
+            "address":"3rd Floor, A-Wing, Technopolis Knowledge Park, Mahakali Caves Road, Andheri (E), Mumbai 400 093."
+        },{
+            "id":12,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/offices/Gandhidham_0.jpeg",
+            "heading":"Gandhidham",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/backgrounds/Gandhidham.jpeg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Gandhidham",
+            "carddetailpara1":"Gandhidham's strategic location in Gujarat, near major ports, propels its growth in logistics, trade and warehousing. Our office in Gandhidham houses a multi-disciplinary team empowered with knowledge, agility, innovative and astute thinking, to serve businesses across all major industries in the region. Our areas of expertise include income tax, international tax, GST, internal audit and risk advisory. We identify client-specific and engagement-specific teams drawing upon our national presence and teams having requisite technical and industry knowledge.",
+            "carddetailpara2":"Contact RSM in Gandhidham for your enterprise’s assurance, tax and consulting needs.",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBA’s and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Financial Reporting, Accounts Outsourcing, Goods and Services Tax and others.",
+            "clientindustries":"The businesses we serve are multinational companies, listed companies, trading and manufacturing industries. ",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone: 022 6108 5555",
+            "email":"emails@authorisedaudit.in",
+            "address":"6, Sunshine Arcade II, Plot No. 37, Sector 8 Near D-Mart, Gandhidham 370 201"
+        },
+        {
+            "id":13,
+            "image":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/media/offices/Surat%201_0.jpeg",
+            "heading":"Surat",
+            "banimag":"https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/offices/Surat%201.jpeg",
+            "detailhead":"Assurance, Risk Advisory, Tax and Consulting Services in Surat ",
+            "carddetailpara1":"The city of Surat in Gujarat is renowned for its diamond cutting and polishing sector. The Gems & Jewellery Industry is one of the fastest growing segments in India, and The Surat Diamond Bourse is the world’s largest diamond trading hub, as well as the world’s largest office building, ahead of The Pentagon.  ",
+            "carddetailpara2":"Authorised Audit India is considered as a Preferred Service Provider by the players from the Gems & Jewellery industry. We service a large number of industry players involved in the industry (domestic focused as well as internationally focused) including a dominant portion of the Gems & Jewellery exporters. We cater to their professional services requirements both, in India and at their overseas locations. Further, given our national and international reach, we are able to provide the said services to our clients at all their business locations. With our integrated and customized IT software solutions for the Gems and Jewellery industry, we are one of the leading service providers of end-to-end IT solutions, implementation services and management consultancy. Our multi-disciplinary teams of professionals with expert professional knowledge in the fields of audit, tax, legal, Information Technology, HR, Operations Consulting, etc. and senior professionals possess extensive experience in catering to this industry.Contact RSM in Surat for extensive experience in advisory, taxation and accounting matters of the Gems & Jewellery sector across various functions and geographies. With a deep understanding of the various finer aspects of the Gems & Jewellery industry on a variety of fronts, we are in a unique position to offer a range of pragmatic and customized solutions to clients.",
+            "serviceoffered":"Teams of qualified Accountants, Engineers, MBA’s and other professionals combine expert knowledge with technology systems and digital infrastructure to provide vital services like Internal Auditing, Tax Advisory and Compliances, Financial Reporting, Accounts Outsourcing, Goods and Services Tax and others.",
+            "clientindustries":"The businesses we serve are IT & ITeS, Gems and Jewellery, Textiles, Fintech and manufacturing industries.",
+            "officehour":"10:00 am to 6:30 pm (Mon - Fri)",
+            "phone":"phone: 022 6108 5555",
+            "email":"emails@authorisedaudit.in",
+            "address":"3rd Floor, A-Wing, Technopolis Knowledge Park, Mahakali Caves Road, Andheri (E), Mumbai 400 093. emails@rsmindia.in"
+        }
+    ]
+}

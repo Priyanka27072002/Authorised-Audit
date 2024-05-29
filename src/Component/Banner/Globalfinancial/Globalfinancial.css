@@ -1,0 +1,333 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#globalfin-banner{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+}
+.globalfin-ban-container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.gobal-first-image img{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.gobal-second-image img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    background-position: 28% 41%;
+    z-index: 3;
+}
+.global-main-layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("../../images/mask.png");
+    background-size: cover;
+    background-position: center;
+    mask: url("../../images/mask.png");
+    width: 100%;
+    height: 100%;
+    mask-repeat: no-repeat;
+    mask-size: 100%;
+    z-index: 2;
+}
+.global-banner-heading{
+    width: 50%;
+    background-color: #009cde;
+    height: 150px;
+    position: relative;
+}
+.global-ban-title{
+    padding: 20px 10px 20px 30%;
+}
+.global-ban-title h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 300;
+}
+.golbal-ban-title{
+    width: 50%;
+    height: 30px;
+    box-decoration-break: clone;
+    background-color: #007EB4;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+    right: 0;
+}
+
+/* globalfinance about jean */
+.globalfin-about-jean{
+    background-color: #f0f0f0;
+}
+.global-about-container{
+    width: 80%;
+    margin: auto;
+}
+.global-empty{
+    height: 150px;
+}
+.global-about-row{
+    display: flex;
+    padding: 40px 0px 20px 0px;
+}
+.global-about-col1{
+    width: 40%;
+    border-right: 1px solid rgb(163, 159, 159);
+}
+.global-about-col2{
+    width: 60%;
+    display: flex;
+    padding: 10px 10px 10px 30px;
+}
+.global-about-image{
+    width: 30%;
+    padding-top: 40px;
+}
+.global-about-image img{
+    width: 90%;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.global-about-detail{
+    width: 70%;
+}
+.global-about-col1 h3{
+    color: gray;
+    font-weight: 400;
+}
+.global-about-col1 h1{
+    font-size: 40px;
+    padding: 10px 0px;
+    color: gray;
+    font-weight: 300;
+}
+.global-about-btn{
+    padding-top: 20px;
+}
+.global-about-btn button{
+    padding: 10px 50px;
+    font-size: 18px;
+    background-color: #36872E;
+    color: #fff;
+    border: none;
+}
+.global-about-para{
+    padding: 10px;
+    font-size: 18px;
+    color: gray;
+}
+.global-about-name{
+    padding: 0px 10px;
+    font-size: 18px;
+    color: #007EB4;
+}
+.global-about-position,.global-about-place{
+    font-size: 18px;
+    padding: 0px 10px;
+    color: gray;
+}
+
+/* global message */
+.global-message{
+    background-color: #009cde;
+}
+.global-message-container{
+    width: 80%;
+    height: 430px;
+    margin: auto;
+}
+.global-msg-row{
+    display: flex;
+}
+.global-msg-col1{
+    width: 50%;
+}
+.global-msg-col2{
+    width: 50%;
+}
+.global-msg-card{
+    background-color: #007EB4;
+    padding: 5% 10%;
+    margin-top: 20px;
+}
+.global-msg-card h1{
+    font-size: 40px;
+    font-weight: 300;
+    color: #fff;
+}
+.global-msg-card p{
+    font-size: 20px;
+    padding: 10px 10px 10px 0px;
+    color: #fff;
+}
+.global-msg-video{
+    background-image: url("https://i.vimeocdn.com/video/1786298205-f78ca8250f65cc854ff8697ff7e364ad2d149aedc2b080e14a388e4ac2795efb-d?mw=800&mh=450&q=70");
+    height: 260px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+.global-msg-video video{
+    width: 100%;
+    height: 250px;
+}
+
+/* regional highlight */
+.global-regional-highlight{
+    background-image: url("../../images/about2.jpg");
+    background-size: cover;
+    background-position: top;
+    height: 132vh;
+}
+.global-reg-container{
+    width: 80%;
+    margin: auto;
+}
+.global-reg-head{
+    border-bottom: 1px solid #fff;
+    padding: 20px 0px 0px 0px;
+}
+.global-reg-head ul li{
+    font-size: 18px;
+    color: #fff;
+    padding: 20px 0px 20px 0px;
+    list-style-type: none;
+  
+}
+.global-reg-head ul li span{
+    border-bottom: 3px solid #fff;
+    padding: 20px 0px 20px 0px;
+}
+.global-reg-row{
+    display: flex;
+}
+.global-reg-col1{
+    width: 40%;
+    color: #fff;
+    margin-top: 5%;
+    padding: 10px;
+}
+.global-reg-col2{
+    width: 60%;
+    color: #fff;
+    display: flex;
+    margin-top: 20%;
+    margin-left: 5%;
+}
+.global-reg-col1 h1{
+    padding: 0px 0px 10px 0px;
+    font-weight: 300;
+}
+.global-reg-col1 p{
+    padding: 10px 0px;
+    font-size: 17px;
+}
+.global-reg-small{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 25px 20px;
+    border: 1px solid #fff;
+    margin: 40px 20px;
+    cursor: pointer;
+}
+.global-reg-small:hover{
+    background-color: #fff;
+    color: #36872E;
+}
+.global-reg-small p{
+    font-size: 18px;
+}
+.global-reg-half{
+    width: 100%;
+}
+
+/* global strategy */
+
+.global-strategy-container{
+    width: 50%;
+    margin: auto;
+}
+.global-str-detail{
+    padding: 15% 0px 10% 0px;
+}
+.global-str-detail h1{
+    padding: 0px 0px 10px 0px;
+    font-size: 40px;
+    font-weight: 300;
+    color: gray;
+}
+.global-str-detail p{
+    padding: 5px 0px;
+    font-size: 18px;
+    color: gray;
+}
+
+/* strategy driver */
+
+.global-str-driver{
+    background-color: #F8F8F8;
+}
+.global-str-container{
+    width: 80%;
+    margin: auto;
+}
+.str-dri-row{
+    display: flex;
+    width: 100%;
+    padding: 0px 0px 5% 0px;
+}
+.str-dri-col{
+    width: 25%;
+}
+.str-dri-image img{
+    width: 100%;
+    height: 160px;
+}
+.global-str-head{
+    text-align: center;
+}
+.global-str-head h1{
+    padding: 30px 0px 10px 0px;
+    font-size: 40px;
+    font-weight: 300;
+    color: gray;
+}
+.global-str-head p{
+    padding: 10px 0px 20px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.str-dri-card{
+    margin: 10px 15px;
+}
+.srt-dri-details{
+    padding: 0px 10px;
+}
+.srt-dri-details h2{
+    font-weight: 400;
+    padding: 5px 0px;
+    color: gray;
+}
+.srt-dri-details p{
+    font-size: 15px;
+    color: gray;
+}

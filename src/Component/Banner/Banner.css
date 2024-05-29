@@ -1,0 +1,376 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#homebanner{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+}
+.image-container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.first-image img{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.second-image img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    background-position: 28% 41%;
+    z-index: 3;
+}
+.image-layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("../images/mask.png");
+    background-size: cover;
+    background-position: center;
+    mask: url("../images/mask.png");
+    width: 100%;
+    height: 100%;
+    mask-repeat: no-repeat;
+    mask-size: 100%;
+    z-index: 2;
+}
+
+
+
+.banenr-heading{
+    position: absolute;
+    top: 87%;
+    color: #fff;
+    z-index: 4;
+    display: inline;
+    left: 50px;
+    font-size: 30px;
+}
+.banenr-heading .banner-text{
+    display: block;
+  box-decoration-break: clone;
+  background: #009cd9;
+  line-height: 55px;
+  /* padding: 5px 10px; */
+  text-wrap: balance;
+}
+.banner-head-span span{
+    position: absolute;
+    bottom: -50px;
+    padding: 5px;
+    background-color: #009cd9;
+}
+.banner-head-span span::after{
+    content: "";
+    width: 20px;
+    height: 20px;
+    display: block;
+    background-color: #007EB4;
+    position: absolute;
+    left: -20px;
+}
+
+
+/* about */
+.about{
+    margin-top: 5%;
+    text-align: center;
+}
+.about-detail h1{
+    font-weight: 300;
+    color: rgb(71, 70, 70);
+    font-size: 38px;
+}
+.about-detail p{
+    font-size: 17px;
+    color: rgb(75, 73, 73);
+}
+.about-btn{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.about-btn button{
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    background-color: #fff;
+    color: #046d9a;
+    font-size: 18px;
+}
+.about-btn button:hover{
+    color: #31a0cf;
+}
+
+.about-global-list-img img{
+    width: 100%;
+    height: 80vh;
+    filter: brightness(50%);
+    position: relative;
+}
+.about-global-body{
+    position: absolute;
+    top: 139%;
+    left: 10%;
+}
+.about-global-body{
+    width: 80%;
+    margin: auto;
+}
+.about-global-list ul{
+    display: flex;
+}
+.about-global-list {
+    border-bottom: 1px solid #fff;
+}
+.about-global-list ul li{
+    list-style-type: none;
+    color: #fff;
+    font-size: 600;
+    padding: 20px 10px 20px 10px;
+    font-size: 17px;
+}
+.about-global2{
+    background-image: url("../images/about2.jpg");
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
+.global-list1{
+    border-bottom: 3px solid #fff;
+    cursor: pointer;
+}
+.global-list2{
+    cursor: pointer;
+}
+.about-globel-list-detail{
+    display: flex;
+    color: #fff;
+}
+.global-list-detail1{
+    width: 60%;
+    margin-top:5%;
+}
+.global-list-detail1 h1{
+        padding: 10px 0px;
+        font-weight: 350;
+        font-size: 40px;
+}
+.global-list-detail1 h2{
+    padding: 0px 0px 10px 0px;
+    font-weight: 350;
+    font-size: 30px;
+}
+.global-list-detail1 h3{
+    font-weight: 300;
+    font-size: 20px;
+}
+.global-list-detail2{
+    width: 35%;
+    margin-top: 15%;
+    margin-left: 30px;
+}
+.global-list-btn{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #fff;
+    padding: 30px 20px;
+}
+.global-list-btn:hover{
+    background-color: #fff;
+    color: #3f9c35;
+}
+.about-global-body2{
+    width: 80%;
+    margin: auto;
+}
+ 
+/* card */
+
+.card{
+    background-color: #f0f0f0;
+}
+.card-row{
+    display: flex;
+}
+.card-col{
+    width: 33.33%;
+    text-align: center;
+}
+.card-container{
+    width: 80%;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.card-image img{
+    width: 70px;
+    height: 70px;
+}
+.card-col h1{
+    color: gray;
+    font-weight: 300;
+    padding: 10px 0px;
+}
+.card-col p{
+    padding: 10px 0px;
+    color: gray;
+}
+
+/* brand  */
+
+.brand{
+    background-image: url("../images//Brand\ launch.png");
+    background-size: cover;
+    height: 350px;
+}
+.brand-row{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.brand-col1{
+    width: 60%;
+    margin-top: 3%;
+}
+.brand-col2{
+    width: 20%;
+    margin-top: 3%;
+}
+.barnd-head span{
+    font-size: 37px;
+    color: #fff;
+    background-color: #007EB4;
+}
+.barnd-head{
+    padding: 10px;
+}
+.brand-para{
+    padding: 10px;
+}
+.brand-para span{
+    font-size: 20px;
+    color: #fff;
+    background-color: #007EB4;
+}
+.brand-col2 button{
+    margin-top: 50%; 
+    margin-left: 60%;
+    width: 100%;
+    padding: 15px 30px;
+    background-color: #3f9c35;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+.brand-col2 button:hover{
+    background-color: #36872E;
+}
+
+/* home card */
+
+.home-card-row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.home-card-container{
+    width: 80%;
+    margin: auto;
+}
+.home-card-image img{
+    width: 100%;
+    height: 250px;
+    filter: brightness(60%);
+}
+.home-card-col{
+    width: 30.33%;
+    margin: 15px;
+    position: relative;
+}
+.home-card-detail{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.home-card-detail .home-card-main{
+    color: #fff;
+    font-size: 18px;
+}
+.home-card-detail2 .home-card-main{
+    color: #fff;
+    font-size: 18px;
+}
+.home-card-detail2{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
+.home-card-mini{
+    font-size: 12px;
+    color: #fff;
+}
+.home-card-play {
+    text-align: center;
+    padding: 20px 0px;
+}
+.home-card-play img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+
+
+
+/* newsletter */
+.newsletter{
+    background-color: #3f9c35;
+    height: 70vh;
+}
+.newltter-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.news-head{
+    width: 60%;
+    margin-top: 13%;
+}
+.news-btn{
+    width: 30%;
+    margin-top: 19%;
+    padding-left: 18%;
+}
+.news-btn button{
+    padding: 12px 70px;
+    background-color: #fff;
+    border: none;
+    font-size: 20px;
+    color: gray;
+}
+.news-btn button:hover{
+    background-color: #007EB4;
+    color: #fff;
+}
+.news-head h1{
+    padding: 0px 0px 10px 0px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 35px;
+}
+.news-head p{
+    color: #fff;
+    font-size: 20px;
+}

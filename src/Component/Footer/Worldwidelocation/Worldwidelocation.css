@@ -1,0 +1,302 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.back-color{
+    background-color: #007EB4;
+    padding: 4% 0px;
+}
+.back-container,.location-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.back-container h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 300;
+}
+.location-bannner{
+    background-color: #888B8D;
+    padding: 4% 0px;
+}
+.location-container h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 300;
+}
+.location-select{
+    display: flex;
+    color: #fff;
+    background-color: #515356;
+    width: 30%;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.back-select{
+    display: flex;
+    color: #fff;
+    background-color:#0073a4;
+    width: 30%;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.location-icon{
+    margin: 5px 10px 5px 10px;
+}
+
+
+/* location details */
+
+.location-detail-container{
+    width: 50%;
+    margin: auto;
+}
+.location-detail-info{
+    padding: 30px 0px;
+}
+.location-detail-container h3{
+    padding: 10px 0px;
+    color: rgb(86, 80, 80);
+}
+.location-detail-container p{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+
+/* location card */
+
+.location-card{
+    background-color: #f0f0f0;
+}
+.location-card-container{
+    width: 80%;
+    margin: auto;
+}
+.location-card-row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5% 0px;
+}
+.location-card-col{
+    width: 30.33%;
+    background-color: #fff;
+    margin: 15px 15px ;
+}
+.location-card-card{
+    height: 100%;
+}
+.loc-card-image img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.loc-card-tag{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.loc-card-tag span{
+    padding-right: 0.5rem;
+    color: gray;
+}
+
+.loc-card-tag-icon{
+    font-size: 18px;
+    color: rgb(65, 62, 62);
+}
+.loc-card-detail{
+    padding: 10px 20px;
+}
+.loc-card-detail p{
+    padding: 10px 0px;
+    color: gray;
+}
+.loc-card-detail h2{
+    color: gray;
+    font-weight: 400;
+}
+.loc-card-more{
+    display: flex;
+    padding: 0px 0px 10px 20px;
+    cursor: pointer;
+}
+.loc-card-more p{
+    color: gray;
+}
+.loc-more-icon{
+    font-size: 20px;
+    margin: 2px 0px 0px 10px;
+    color: gray;
+}
+
+/* Location profile */
+
+.loc-profile-container{
+    width: 40%;
+    margin: auto;
+}
+.loc-profile{
+    margin: 10% 0px;
+}
+.loc-pro-row{
+    display: flex;
+    border-top: 1px solid rgb(193, 188, 188);
+    border-bottom: 1px solid rgb(193, 188, 188);
+    padding: 20px 0px;
+}
+.loc-pro-col1{
+    width: 40%;
+}
+.loc-pro-col2{
+    width: 60%;
+    padding: 0px 0px 0px 25px;
+}
+.loc-pro-image img{
+    width: 100%;
+    height: 190px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.loc-pro-col2 h3{
+    font-size: 25px;
+    color: gray;
+    font-weight: 300;
+}
+.loc-pro-view{
+    display: flex;
+    color: #36872E;
+    padding: 10px 0px;
+}
+.loc-pro-icon{
+    margin: 3px 0px 0px 10px;
+    font-size: 15px;
+}
+.pro-view{
+    color: gray;
+    padding: 10px 0px 0px 0px;
+}
+.loc-pro-btn{
+    margin: 10px 0px;
+    display: flex;
+    border: 1px solid #36872E ;
+    padding: 10px;
+    width: 80%;
+    cursor: pointer;
+}
+.loc-pro-btn:hover{
+    background-color: #36872E;
+    color: #fff;
+}
+.loc-pro-btn:hover p{
+    color: #fff;
+}
+.loc-pro-btn:hover .loc-pro-mail{
+    color: #fff;
+}
+.loc-pro-btn p{
+    color: #36872E;
+}
+.loc-pro-mail{
+    font-size: 18px;
+    margin-top: 4px;
+    margin-right: 10px;
+    color: #36872E;
+}
+
+/* Location contact */
+
+.loc-contact{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.loc-cont-head h1{
+    font-size: 40px;
+    font-weight: 300;
+    color: gray;
+}
+.loc-cont-head h3{
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 300;
+    color: gray;
+}
+
+/* Location form */
+
+.loc-cont-form{
+    background-color: #f0f0f0;
+    padding: 30px 0px;
+}
+.loc-cont-form-det{
+    width: 50%;
+    margin: auto;
+    position: relative;
+}
+.loc-cont-form-det select{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.loc-cont-form-det label::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 21%;
+}
+
+
+.loc-form-captcha{
+    border: 1px solid #d3d3d3;
+    background-color: #f9f9f9;
+    display: flex;
+    padding: 5px 0px;
+    margin-top: 30px;
+    width: 60%;
+}
+.loc-captcha-empty{
+    margin-left: 20px;
+}
+.loc-captcha-empty img{
+    height: 40px;
+    width: 40px;
+}
+.loc-click-captcha{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.loc-click{
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border: 1px solid gray;
+    margin-right: 20px;
+}
+.catcha-name{
+    font-size: 13px;
+}
+.catcha-link a{
+    font-size: 10px;
+    margin-right: 10px;
+}
+.loc-catcha-design{
+    margin-left: 30%;
+}
+.loc-form-btn{
+    margin-top: 30px;
+}
+.loc-form-btn button{
+    padding: 10px 13%;
+    background-color: #007EB4;
+    color: #fff;
+    border: none;
+}
+

@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.office-banner{
+    position: relative;
+}
+.office-ban-empty{
+    background-image: url("https://res.cloudinary.com/rsmglobal/image/fetch/t_default/f_auto/q_auto/https://www.rsm.global/india/sites/default/files/styles/crop_image/public/media/backgrounds/AdobeStock_169134635%20K.jpg");
+    height: 390px;
+    background-size: cover;
+    filter: brightness(80%);
+}
+.office-ban-head{
+    position: absolute;
+    top: 30%;
+    left: 12%;
+}
+.office-ban-head h1{
+    font-size: 50px;
+    font-weight: 300;
+    color: #fff;
+}
+.office-ban-head p{
+    font-size: 22px;
+    color: #fff;
+}
+.office-ban-para{
+    padding-top: 10px;
+}
+
+/* Office card */
+
+.office-card-container{
+    width: 80%;
+    margin: auto;
+}
+.office-card-row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+.office-card-col{
+    width: 30.33%;
+    margin: 15px;
+    position: relative;
+}
+.office-card-image img{
+    width: 100%;
+    height: 230px;
+    filter: brightness(80%);
+    cursor: pointer;
+}
+.office-card-head{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+.office-card-head h2{
+    color: #fff;
+    font-weight: 400;
+}

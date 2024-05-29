@@ -1,0 +1,139 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.tax-banner{
+    position: relative;
+}
+.tax-banner-container{
+    background-image: url("../../images/careerlady.jpg");
+    background-size: cover;
+    background-position: right;
+    filter: brightness(70%);
+    height: 350px;
+}
+.tax-head{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.tax-head h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+
+/* tax paragraph */
+
+.tax-para-container{
+    width: 50%;
+    margin: auto;
+}
+.tax-para-details{
+    padding: 20px 0px 0px 0px;
+}
+.tax-para-details h3{
+    padding: 0px 0px 10px 0px;
+    color: rgb(59, 55, 55);
+}
+.tax-para-details p{
+    padding: 10px 0px 0px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.tax-para-info p{
+    padding: 10px 0px 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.tax-para-info span a{
+    color: #007EB4;
+    text-decoration: none;
+}
+.tax-para-info ul li{
+    list-style-type: none;
+    font-size: 18px;
+    color: gray;
+}
+.tax-para-info ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.tax-para-icon{
+    color: #36872E;
+    margin-right: 5px;
+}
+.tax-para-list ul{
+    padding: 0px 0px 20px 0px;
+}
+
+.tax-para-list ul li{
+    list-style-type: none;
+    font-size: 18px;
+    color: gray;
+    display: inline-block;
+    width: 100%;
+}
+.tax-para-list ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.tax-para-list ul li span{
+    margin-left: 30px;
+}
+/* tax choose */
+
+.tax-choose-container{
+    width: 80%;
+    margin: auto;
+}
+.tax-choose{
+    background-color: #eaeced;
+}
+.tax-choose-row{
+    display: flex;
+    padding-top: 5%;
+}
+.tax-choose-col1{
+    width: 40%;
+    border-right: 1px solid rgb(183, 178, 178);
+}
+.tax-choose-col2{
+    width: 60%;
+}
+.tax-choose-col1 h3{
+    color: gray;
+    font-weight: 500;
+}
+.tax-choose-col1 h1{
+    padding: 10px 0px;
+    font-size: 35px;
+    color: gray;
+    font-weight: 300;
+}
+.tax-choose-list{
+    width: 60%;
+    margin: auto;
+}
+.tax-choose-list ul li{
+    list-style-type: none;
+    font-size: 18px;
+    padding: 5px 0px;
+    color: gray;
+}
+.tax-choose-list ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+

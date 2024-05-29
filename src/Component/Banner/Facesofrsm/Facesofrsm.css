@@ -1,0 +1,83 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.face-banner-empty{
+    background-image: url("../../images/faces-banner.jpg");
+    height: 300px;
+    background-size: cover;
+    filter: brightness(80%);
+}
+.face-banner{
+    position: relative;
+}
+
+/* face details */
+
+.face-detail-container{
+    width: 50%;
+    margin: auto;
+    padding: 0px 0px 20px 0px;
+}
+.face-detail-info{
+    margin-top: 12%;
+}
+.face-detail-info h1{
+    padding: 0px 0px 10px 0px;
+    font-size: 40px;
+    font-weight: 300;
+    color: gray;
+}
+.face-detail-info p{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.face-detail-video{
+    background-image: url("https://i.vimeocdn.com/video/1785138081-431017ee7f1002420a661df27aebdfc4649d0a541c2367eee3e4e3ca6aa401ae-d?mw=1000&mh=424&q=70");
+    height: 300px;
+    background-size: cover;
+    background-position: right;
+}
+
+/* face card */
+
+.face-card{
+    background-color: #F8F8F8;
+    padding: 30px 0px;
+}
+.face-card-container{
+    width: 80%;
+    margin: auto;
+}
+.face-card-container h1{
+    padding: 10px 0px 20px 0px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    color: gray;
+}
+.face-card-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.face-card-col{
+    width: 25%;
+}
+.face-card-image img{
+    width: 100%;
+    height: 150px;
+}
+.faxce-card-detail h2{
+    padding: 10px;
+    color: gray;
+    font-weight: 300;
+}
+.faxce-card-detail p{
+    padding: 10px;
+    color: gray;
+}
+.face-card-card{
+    margin: 10px 20px;
+}

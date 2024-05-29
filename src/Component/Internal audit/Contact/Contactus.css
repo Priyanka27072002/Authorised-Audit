@@ -1,0 +1,126 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.internal-contact-banner{
+    height: 350px;
+}
+.contact-container{
+    width: 80%;
+    margin: auto;
+}
+.contact-container h1{
+    padding: 13% 10px 0px 0px;
+    font-size: 50px;
+    font-weight: 400;
+    color: gray;
+}
+.contact-form{
+    background-color: #eaeced;
+}
+.contact-form-container{
+    width: 50%;
+    margin: auto;
+    padding-top: 30px;
+}
+.contact-form-input input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px;
+    border: 1px solid rgb(202, 197, 197);
+}
+.contact-form-text textarea{
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid rgb(202, 197, 197);
+}
+.labelcont{
+    position: relative;
+}
+.cont-label::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 12%;
+}
+.comlabel{
+    position: relative;
+}
+.cont-com::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 18%;
+}
+.joblabel{
+    position: relative;
+}
+.cont-job::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 9.5%;
+}
+.country-label{
+    position: relative;
+}
+.cont-country::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 24%;
+}
+.bus-label{
+    position: relative;
+}
+.cont-bus::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 18%;
+}
+.sub-label{
+    position: relative;
+}
+.cont-sub::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 9%;
+}
+.msg-label{
+    position: relative;
+}
+.cont-msg::after{
+    content: "*";
+    display: block;
+    color: red;
+    position: absolute;
+    top: 0;
+    left: 10%;
+}
+.cont-form-btn{
+    padding: 50px 0px;
+}
+.cont-form-btn button{
+    padding: 10px 70px;
+    background-color:#25a6de ;
+    color: #fff;
+    border: none;
+}
+.cont-form-btn button:hover{
+    background-color: #007EB4;
+}

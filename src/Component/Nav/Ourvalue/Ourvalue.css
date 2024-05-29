@@ -1,0 +1,94 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.ourvalue-empty{
+    background-image: url("../../images/ind-banner.jpg");
+    height: 350px;
+    background-size: cover;
+    background-position: right;
+    filter: brightness(80%);
+}
+.ourvalue-banner{
+    position: relative;
+}
+.ourvalue-head{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.ourvalue-head h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 300;
+}
+.ourvalue-detail-container{
+    width: 50%;
+    margin: auto;
+}
+.ourvalue-detail{
+    padding: 30px 0px;
+}
+.ourvalue-header{
+    font-size: 20px;
+    color: rgb(38, 36, 36);
+    padding: 10px 0px;
+}
+.ourvalue-empower{
+    padding: 10px 0px;
+    margin-left: 40px;
+    color: #36872E;
+}
+.ourvalue-power-exp{
+    padding: 10px 0px;
+}
+.ourvalue-power-exp h2{
+    padding: 10px 0px;
+    color: rgb(63, 58, 58);
+}
+.ourvalue-power-exp p{
+    text-align: center;
+    font-size: 16.3px;
+    padding: 10px 0px;
+    color: #36872E;
+}
+.ourvalue-distin{
+    margin: 10px 0px;
+    background-color: #e7e8e8;
+    padding: 20px 0px;
+}
+.ourvalue-distin h1{
+    text-align: center;
+    color: #268db9;
+}
+.ourvalue-strong{
+    margin: 5% 0px;
+}
+.ourvalue-strong h3{
+    text-align: center;
+    padding: 20px 0px;
+    color: rgb(63, 62, 62);
+}
+.ourvalue-culture{
+    margin: 30px 0px;
+}
+.ourvalue-culture h2{
+    font-size: 35px;
+    padding: 10px 0px;
+    color: rgb(53, 50, 50);
+}
+.ourvalue-culture p{
+    padding: 10px 0px;
+    color: gray;
+    font-size: 18px;
+}
+.ourvalue-culture p span{
+    font-weight: 700;
+    color: rgb(61, 58, 58);
+}
+.ourvalue-intergity h3{
+    color: #268db9;
+    text-align: start;
+    padding: 0px;
+}

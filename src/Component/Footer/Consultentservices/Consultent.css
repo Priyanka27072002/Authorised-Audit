@@ -1,0 +1,161 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.consultent-banner-empty{
+    background-image: url("../../images/consultent-banner.jpg");
+    height: 350px;
+    background-size: cover;
+    background-position: right;
+    filter: brightness(80%);
+}
+.consultent-banner{
+    position: relative;
+}
+.consultent-banner-head{
+    width: 50%;
+    position: absolute;
+    top: 3%;
+    left: 13%;
+}
+.consultent-banner-head p{
+    color: #fff;
+    font-size: 23px;
+    font-weight: 400;
+}
+.consultent-banner-head span{
+    color: #fff;
+    font-size: 18px;
+}
+.consultent-banner-head h1{
+    color: #fff;
+    padding: 10px 0px;
+    font-size: 50px;
+    font-weight: 300;
+}
+/* consultent details */
+.con-det-container{
+    width: 50%;
+    margin: auto;
+}
+.con-det-info{
+    padding: 20px 0px 30px 0px;
+}
+.con-det-info h1{
+    font-size: 50px;
+    color: #3f9c35;
+}
+.con-det-info p{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.con-det-info p span{
+    color: #0989c0;
+    cursor: pointer;
+}
+.con-det-list{
+    width: 65%;
+    margin: auto;
+    padding-top: 30px;
+}
+.con-det-list ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.con-det-list ul li{
+    color: gray;
+    font-size: 18px;
+}
+.con-det-list ul li span{
+    color: #36872E;
+    font-weight: 600;
+}
+
+/* consultent form  */
+
+.con-form-container{
+    width: 50%;
+    margin: auto;
+}
+.consultent-form{
+    background-color: #eceff2;
+}
+.con-form-input{
+    padding: 10px 0px;
+}
+.con-form-input input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(211, 205, 205)
+}
+.con-form-agree{
+    padding: 20px 0px;
+}
+.con-form-agree span{
+    color: gray;
+    font-size: 17px;
+}
+.con-form-agree input{
+    width: 16px;
+    height: 16px;
+   
+}
+.con-form-agree p{
+    padding-left: 20px;
+    color: gray;
+}
+.con-form-btn{
+    padding: 10px 0px 20px 0px;
+}
+.con-form-btn button{
+    padding: 10px 12%;
+    font-size: 18px;
+    background-color: #0476a7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.con-form-btn button:hover{
+    background-color: #0989c0;
+}
+.con-form-check{
+    margin-top: 20px;
+    display: flex;
+    background-color: #f9f9f9;
+    width: 50%;
+    height: 75px;
+    border: 1px solid rgb(196, 191, 191);
+}
+.con-form-click{
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border: 2px solid rgb(171, 167, 167);
+    margin: 7% 20px 20px 5%;
+   
+}
+.con-form-check span{
+    padding-top: 20px;
+    font-size: 13px;
+}
+.con-form-captcha p{
+    font-size: 10px;
+}
+.con-form-captcha a{
+    font-size: 10px;
+    padding: 0px 5px 0px 0px;
+}
+.con-form-captcha{
+    padding-left: 30%;
+}
+.con-form-captcha img{
+    width: 40px;
+    height: 30px;
+    padding-left: 10px;
+    margin-top: 5px;
+}

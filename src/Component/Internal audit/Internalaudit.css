@@ -1,0 +1,268 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.internal-nav{
+    background-color: #CDCECF;
+}
+.internal-nav-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.internal-nav-liast li{
+    list-style-type: none;
+    padding: 10px 0px;
+    font-size: 15px;
+}
+
+.inernal-nav-home:hover{
+    cursor: pointer;
+}
+.internal-nav-print{
+    display: flex;
+}
+.internal-nav-print li{
+    list-style-type: none;
+    padding: 10px 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.internal-nav-print li:hover .internal-nav-icon{
+    color: gray;
+}
+.internal-nav-icon{
+    font-size: 17px;
+    color: #007EB4;
+}
+
+/* internal banner */
+.internal-banner{
+    background-image: url("../images/internalaudit.jpg");
+    background-size: cover;
+    background-position: right;
+    height: 350px;
+}
+.internal-banner h1{
+    padding-top: 10%;
+    padding-left: 10%;
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+/* internal about  */
+
+.internal-about-container{
+    width: 50%;
+    margin: auto;
+}
+.internal-about-first{
+    padding: 20px 0px;
+}
+.internal-about-first h3{
+    padding: 10px 0px;
+    color: rgb(82, 77, 77);
+    font-weight: 700;
+}
+.internal-about-first p{
+    padding: 10px 0px 0px 0px;
+    color: gray;
+    font-size: 18px;
+}
+.internal-about-second{
+    padding: 10px 0px;
+}
+.internal-about-second h3{
+    padding: 10px 0px;
+    color: rgb(82, 77, 77);
+}
+.internal-about-second ul{
+    padding: 0px 0px 10px 0px;
+}
+.internal-about-second ul li{
+    list-style-type: none;
+    font-size: 18px;
+    color: gray;
+}
+.internal-about-second ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.internal-about-icon{
+    margin-right: 10px;
+    color: #3f9c35;
+}
+.internal-about-second span{
+    margin-left: 30px;
+}
+.internal-about-thrid{
+    padding: 20px 0px 10px 0px; 
+}
+.internal-about-thrid h3{
+    color: rgb(82, 77, 77);
+}
+.internal-about-thrid h3 span a{
+    text-decoration: none;
+    color: #007EB4;
+}
+.internal-about-thrid p{
+    padding: 10px 0px;
+    color: gray;
+    font-size: 18px;
+}
+.internal-abotu-four{
+    padding: 10px 0px;
+}
+.internal-abotu-four p{
+    padding: 0px 0px 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.internal-abotu-four ul li{
+    list-style-type: none;
+    font-size: 18px;
+    color: gray;
+}
+.internal-abotu-four ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.internal-about-five{
+    padding: 20px 0px 0px 20px;
+  
+}
+.internal-about-five h3{
+    color: rgb(82, 77, 77);
+    padding: 0px 0px 10px 0px;
+}
+.internal-about-five p{
+    padding: 0px 0px 10px 0px;
+    color: gray;
+}
+.internal-about-five ul{
+    padding: 0px 0px 40px 0px;
+}
+.internal-about-five ul li{
+    list-style-type: none;
+    color: gray;
+}
+.internal-about-five ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+
+
+.internal-about-five ul li .internal-span a{
+    text-decoration: none;
+    color: #007EB4;
+   
+}
+
+/* internal list section */
+.internal-list{
+    background-color: #eaeced;
+}
+.internal-list-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.internal-list-con-col1{
+    width: 50%;
+    margin: 20px;
+    border-right: 1px solid rgb(167, 163, 163);
+}
+.internal-list-con-col2{
+    width: 50%;
+}
+.internal-list-servicelist{
+    width: 70%;
+    margin: auto;
+}
+.internal-list-servicelist ul{
+    padding: 25px 0px 10px 0px;
+}
+.internal-list-servicelist ul li{
+    list-style-type: none;
+    color: gray;
+    padding: 5px;
+}
+.internal-list-servicelist ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.internal-list-service{
+    width: 90%;
+    margin: auto;
+}
+.internal-list-service h3{
+    padding: 0px 0px 10px 0px;
+    font-weight: 500;
+    color: gray;
+}
+.internal-list-service h1{
+    font-size: 40px;
+    font-weight: 400; 
+    color: gray;
+}
+
+/* internal card section */
+
+.internal-card{
+    background-color: #eaeced;
+}
+.internal-card-container{
+    width: 80%;
+    margin: auto;
+}
+.internal-card-col{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.internal-card-image img{
+    width: 70px;
+    height: 70px;
+}
+.internal-card-image{
+    margin: 30px 0px;
+}
+.internal-card-1{
+    padding: 10% 20% 5% 20%;
+}
+.internal-card-1 .card-info{
+    font-size: 18px;
+    color: gray;
+}
+.internal-card-2{
+    padding: 5% 20% 5% 20%;
+    margin-top: 5%;
+}
+.internal-card-2 p{
+    font-size: 18px;
+    color: gray;
+}
+.card-cont{
+    color: #007EB4;
+    font-size: 18px;
+    cursor: pointer;
+}
+.internal-card-2 p span{
+    color: #007EB4;
+    cursor: pointer;
+}

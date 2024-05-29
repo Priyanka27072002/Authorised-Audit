@@ -1,0 +1,108 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.ourpeople-empty{
+    background-image: url("../../images/financial-banner.jpg");
+    height: 350px;
+    background-size: cover;
+    background-position: right;
+    filter: brightness(80%);
+}
+.ourpeople-banner{
+    position: relative;
+}
+.ourpeople-head{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.ourpeople-head h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 300;
+}
+.ourpeople-container{
+    width: 50%;
+    margin: auto;
+}
+.ourpeople-detail-image img{
+    width: 100%;
+}
+.ourpeople-detail{
+    padding: 30px 0px;
+}
+.ourpeople-detail h3{
+    font-size: 25px;
+    font-weight: 400;
+    color: #268db9;
+    padding: 10px 0px;
+}
+.ourpeople-detail h4{
+    margin: 30px 0px 10px 0px;
+}
+.ourpeople-detail h4 i{
+    color: #268db9;
+   
+}
+.ourpeople-det-audit h2{
+    padding: 10px 0px;
+    font-size: 35px;
+    color:  #36872E;
+}
+.ourpeople-det-audit ul {
+    margin-left: 10%;
+}
+.ourpeople-det-audit ul li{
+    color: #36872E;
+}
+.ourpeople-det-audit ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.ourpeople-det-help{
+    border: 1px solid rgb(206, 203, 203);
+    margin: 30px 0px 10px 0px;
+    padding: 10px;
+}
+.ourpeople-det-help h1{
+    color: #268db9;
+}
+.ourpeople-det-touch h4{
+    color: rgb(77, 74, 74);
+}
+.ourpeople-det-list ul{
+    margin-left: 30px;
+}
+.ourpeople-det-list ul li::before{
+    content: "●";
+    font-size: 20px;
+    margin-left: -1em;
+    margin-right:.5em;
+    color: #36872E;
+}
+.ourpeople-det-list ul li{
+    font-size: 18px;
+    color: gray;
+}
+.ourpeople-det-list ul li span{
+    color: #268db9;
+    cursor: pointer;
+}
+.ourpeople-det-list p{
+    padding: 10px 0px;
+    font-size: 18px;
+    color: gray;
+}
+.ourpeople-det-list p::before{
+    content: "*";
+    
+}
+.ourpeople-det-list p span{
+    color: #268db9;
+    cursor: pointer;
+}
